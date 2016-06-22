@@ -75,7 +75,11 @@ c)并且需要在build.gradle中android节点下添加
 
 ———————以下通过运行项目,直接生成,无需要手动编写Android.mk文件忽略第6第7步——— 
 8.在app目录下的 build.gradle中设置库文件名（生成的so文件名）：
+
+
 找到 defaultConfig 这项，在里面添加如下内容：
+
+
 ndk{  
       moduleName "MyJni"  //设置库(so)文件名称  
    }  
