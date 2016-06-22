@@ -38,9 +38,15 @@ android.useDeprecatedNdk=true
 
 
 ###当前项目使用时
-a)将main/libs下资源拷贝到app/libs下
-b)在LocalDataHelper中添加加载so库方法
+a)将main/libs下资源拷贝到app/libs下 
+
+
+b)在LocalDataHelper中添加加载so库方法  
+
+
 c)并且需要在build.gradle中android节点下添加
+
+
   sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
