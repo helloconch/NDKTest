@@ -55,8 +55,14 @@ c)并且需要在build.gradle中android节点下添加
  
 ###其它项目使用
 a)拷贝so文件到其它项目app/libs
+
+
 b)拷贝LocalDataHelper全文件限定名以及类中内容
+
+
 c)并且需要在build.gradle中android节点下添加
+
+
   sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
