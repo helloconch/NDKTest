@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ndk_01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ndk_01">
+				<Option output="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/ndk_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk_01"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ndk_01/fast">
+				<Option output="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/ndk_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk_01/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SoftWare/workspace-ndk/ndk-01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T1.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T2.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T3.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T4.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T5.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T6.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T7.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/T8.c">
+			<Option target="ndk_01"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/ndk-01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

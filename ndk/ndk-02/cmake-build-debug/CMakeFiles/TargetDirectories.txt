@@ -1,0 +1,3 @@
+/Users/SoftWare/workspace-ndk/ndk-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/SoftWare/workspace-ndk/ndk-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/SoftWare/workspace-ndk/ndk-02/cmake-build-debug/CMakeFiles/ndk_02.dir

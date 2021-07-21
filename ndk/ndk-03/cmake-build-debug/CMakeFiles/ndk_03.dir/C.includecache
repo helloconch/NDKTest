@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/SoftWare/workspace-ndk/ndk-03/T16.c
+stdio.h
+-
+stdlib.h
+-
+
+/Users/SoftWare/workspace-ndk/ndk-03/T17.c
+stdio.h
+-
+
