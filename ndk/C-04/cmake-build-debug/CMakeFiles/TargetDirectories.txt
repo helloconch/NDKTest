@@ -1,0 +1,3 @@
+/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir
