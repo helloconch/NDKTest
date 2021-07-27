@@ -7,3 +7,9 @@ CMakeFiles/C_04.dir/T2.c.o: ../T2.c
 
 CMakeFiles/C_04.dir/T3.c.o: ../T3.c
 
+CMakeFiles/C_04.dir/T4.c.o: ../T4.c
+
+CMakeFiles/C_04.dir/T5.c.o: ../T5.c
+
+CMakeFiles/C_04.dir/T6.c.o: ../T6.c
+

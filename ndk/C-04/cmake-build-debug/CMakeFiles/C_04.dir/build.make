@@ -115,11 +115,53 @@ CMakeFiles/C_04.dir/T3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_04.dir/T3.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T3.c -o CMakeFiles/C_04.dir/T3.c.s
 
+CMakeFiles/C_04.dir/T4.c.o: CMakeFiles/C_04.dir/flags.make
+CMakeFiles/C_04.dir/T4.c.o: ../T4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C_04.dir/T4.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_04.dir/T4.c.o -c /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T4.c
+
+CMakeFiles/C_04.dir/T4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_04.dir/T4.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T4.c > CMakeFiles/C_04.dir/T4.c.i
+
+CMakeFiles/C_04.dir/T4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_04.dir/T4.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T4.c -o CMakeFiles/C_04.dir/T4.c.s
+
+CMakeFiles/C_04.dir/T5.c.o: CMakeFiles/C_04.dir/flags.make
+CMakeFiles/C_04.dir/T5.c.o: ../T5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C_04.dir/T5.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_04.dir/T5.c.o -c /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c
+
+CMakeFiles/C_04.dir/T5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_04.dir/T5.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c > CMakeFiles/C_04.dir/T5.c.i
+
+CMakeFiles/C_04.dir/T5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_04.dir/T5.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c -o CMakeFiles/C_04.dir/T5.c.s
+
+CMakeFiles/C_04.dir/T6.c.o: CMakeFiles/C_04.dir/flags.make
+CMakeFiles/C_04.dir/T6.c.o: ../T6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/C_04.dir/T6.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_04.dir/T6.c.o -c /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c
+
+CMakeFiles/C_04.dir/T6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_04.dir/T6.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c > CMakeFiles/C_04.dir/T6.c.i
+
+CMakeFiles/C_04.dir/T6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_04.dir/T6.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c -o CMakeFiles/C_04.dir/T6.c.s
+
 # Object files for target C_04
 C_04_OBJECTS = \
 "CMakeFiles/C_04.dir/T1.c.o" \
 "CMakeFiles/C_04.dir/T2.c.o" \
-"CMakeFiles/C_04.dir/T3.c.o"
+"CMakeFiles/C_04.dir/T3.c.o" \
+"CMakeFiles/C_04.dir/T4.c.o" \
+"CMakeFiles/C_04.dir/T5.c.o" \
+"CMakeFiles/C_04.dir/T6.c.o"
 
 # External object files for target C_04
 C_04_EXTERNAL_OBJECTS =
@@ -127,9 +169,12 @@ C_04_EXTERNAL_OBJECTS =
 C_04: CMakeFiles/C_04.dir/T1.c.o
 C_04: CMakeFiles/C_04.dir/T2.c.o
 C_04: CMakeFiles/C_04.dir/T3.c.o
+C_04: CMakeFiles/C_04.dir/T4.c.o
+C_04: CMakeFiles/C_04.dir/T5.c.o
+C_04: CMakeFiles/C_04.dir/T6.c.o
 C_04: CMakeFiles/C_04.dir/build.make
 C_04: CMakeFiles/C_04.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable C_04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable C_04"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_04.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

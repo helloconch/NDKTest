@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T3.c
+/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c
 stdio.h
 -
 stdlib.h
 -
-string.h
+
+/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c
+stdio.h
+-
+stdlib.h
 -
 

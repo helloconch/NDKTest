@@ -87,6 +87,15 @@
 		<Unit filename="/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T3.c">
 			<Option target="C_04"/>
 		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T4.c">
+			<Option target="C_04"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c">
+			<Option target="C_04"/>
+		</Unit>
+		<Unit filename="/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c">
+			<Option target="C_04"/>
+		</Unit>
 		<Unit filename="/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

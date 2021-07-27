@@ -7,6 +7,9 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T1.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T1.c.o"
   "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T2.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T2.c.o"
   "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T3.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T3.c.o"
+  "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T4.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T4.c.o"
+  "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T5.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T5.c.o"
+  "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/T6.c" "/Users/SoftWare/workspace-ndk/NDKTest/ndk/C-04/cmake-build-debug/CMakeFiles/C_04.dir/T6.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
